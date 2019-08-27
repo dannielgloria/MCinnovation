@@ -8,3 +8,4 @@
     $email_body = "Usuario: $name. \n".
                     "Correo electronico: $email. \n".
                         "Mensaje: $message. \n";
+?>
